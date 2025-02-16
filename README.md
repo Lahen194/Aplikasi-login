@@ -9,6 +9,5 @@ Alur Fitur Login:
 Desain Aplikasi Login:
 1. bg-color ungu
 2. font-color putih
-3. Tulisan pada button dibuat bercetak tebal
-4. font-style times new roman
+3. font-style times new roman
 
