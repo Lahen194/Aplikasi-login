@@ -7,7 +7,8 @@ Alur Fitur Login:
 3. Menampilkan halaman home.
 
 Desain Aplikasi Login:
-1. latar berwarna ungu
-2. Tulisan berwarna putih
-3. Tulisan pada button dibuat bercetak tebal
-4. Style Font times new roman
+1. bg-color ungu
+2. font-color putih
+3. font-style times new roman
+4. hover button ungu tua
+
