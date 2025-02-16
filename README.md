@@ -6,6 +6,6 @@ Alur Fitur Login:
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
 
-Desain Aplikasi Login :
-1, latar berwarna ungu
+Desain Aplikasi Login:
+1. latar berwarna ungu
 2. Tulisan berwarna putih
